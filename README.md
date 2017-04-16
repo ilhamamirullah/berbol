@@ -1,2 +1,4 @@
 # berbol
-Project LabTI Pemrograman Web BerBol (Berita Bola)
+LabTI project Pemrograman Web BerBol (Berita Bola)
+
+for look tutorial at folder <code>doc/</code>
